@@ -13,9 +13,9 @@
 # 📊 GitHub Status:
 
 <div style="display: flex; justify-content: space-evenly; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-ifro&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" height="160em" width="400em"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=lucas-ifro&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" height="160em" width="400em"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-ifro&theme=tokyonight&hide_border=true" height="160em"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-f-rodrigues&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" height="160em" width="400em"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=lucas-f-rodrigues&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" height="160em" width="400em"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-f-rodrigues&theme=tokyonight&hide_border=true" height="160em"/>
 </div>
 
 
