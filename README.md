@@ -1,5 +1,5 @@
 # Olâ eu me chamo Lucas Ferreira Rodrigues 👋
-👩‍💻 Cursando ADS-Análise e desenvolvimento de sistemas no Ifro.<br>👨‍🏫 Atualmente estou estudando Data & Analytics.<br>🤵 Engenheiro de dados na Compass UOL.
+👩‍💻 Cursando ADS-Análise e desenvolvimento de sistemas no Ifro.<br>👨‍🏫 Atualmente estou estudando Data & Analytics.<br>🤵 Analista de dados na Compass UOL.
 <br>
 
 
