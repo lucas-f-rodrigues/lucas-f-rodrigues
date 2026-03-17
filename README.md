@@ -18,12 +18,25 @@
 ![ETL](https://img.shields.io/badge/ETL-4CAF50?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
-# 📊 GitHub Status:
 
-<div style="display: flex; justify-content: space-evenly; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-f-rodrigues&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" height="160em" width="400em"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=lucas-f-rodrigues&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" height="160em" width="400em"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-f-rodrigues&theme=tokyonight&hide_border=true" height="160em"/>
+# 📊 Activity & Consistency
+
+<div align="center">
+
+<!-- Linha 1 -->
+<div>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-f-rodrigues&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucas-f-rodrigues&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+</div>
+
+<br>
+
+<!-- Linha 2 -->
+<div>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucas-f-rodrigues&theme=tokyonight"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucas-f-rodrigues&theme=tokyonight"/>
+</div>
+
 </div>
 
 
